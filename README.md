@@ -130,7 +130,6 @@ The notebook produces a few plots worth mentioning if you're browsing the repo:
 - **Confusion matrix heatmap** on the test set, which is essentially diagonal given the near-1.00 accuracy.
 - A single **prediction example** at the end, where the model is run on a random held-out image and the predicted class is shown alongside the image and the true label.
 
-These aren't saved to disk in the notebook, so they'd need to be exported and added to an `images/` (or similar) folder if you want them rendered on GitHub.
 
 ## Key Observations
 
